@@ -31,9 +31,12 @@ education:
   - course: MS in Quantitative Economics
     institution: University of Connecticut
     year: 2023
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MA in Economics
+    institution: Shandong University
+    year: 2018
+  - course: BA in Agricaltural Economics
+    institution: Nanjing Agricaltural University
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
