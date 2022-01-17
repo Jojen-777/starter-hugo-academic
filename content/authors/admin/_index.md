@@ -45,16 +45,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: mailto:xuejian.gong@uconn.edu
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Jojen-777
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/xuejian-gong-990617ba/
