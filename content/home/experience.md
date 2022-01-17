@@ -49,8 +49,7 @@ experience:
         * Machine Learning for Economists (R)
         * Financial Economics
         * Econometrics I
-   
-   - title: Research Assistent
+  - title: Research Assistent
     company: University of Connecticut
     company_url: ''
     company_logo: org-x
@@ -62,6 +61,7 @@ experience:
         
         * Open Source Program Python
         * Machine Learning for Economists (R)
+   
 
         
         
