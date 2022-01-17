@@ -6,7 +6,7 @@ title: Xuejian Gong
 superuser: true
 
 # Role/position/tagline
-role: Instructor 
+role: Ph.D. Candidate in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
