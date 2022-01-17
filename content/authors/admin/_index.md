@@ -34,8 +34,8 @@ education:
   - course: MA in Economics
     institution: Shandong University
     year: 2018
-  - course: BA in Agricaltural Economics
-    institution: Nanjing Agricaltural University
+  - course: BA in Agricultural Economics
+    institution: Nanjing Agricultural University
     year: 2015
 
 # Social/Academic Networking
