@@ -7,10 +7,10 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Research
+  - name: Teaching
     url: '#experience'
     weight: 20
-  - name: Teaching
+  - name: Research
     url: '#projects'
     weight: 30
   - name: Contact
