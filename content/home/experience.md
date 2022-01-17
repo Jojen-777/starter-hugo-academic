@@ -38,7 +38,7 @@ experience:
   - title: Teaching Assistent
     company: University of Connecticut
     company_url: ''
-    company_logo: org-x
+    # company_logo: org-x
     location: Connecticut
     date_start: '2019-08-20'
     date_end: '2021-05-11'
@@ -52,7 +52,7 @@ experience:
   - title: Research Assistent
     company: University of Connecticut
     company_url: ''
-    company_logo: org-x
+    # company_logo: org-x
     location: Connecticut
     date_start: '2020-01-20'
     date_end: ''
